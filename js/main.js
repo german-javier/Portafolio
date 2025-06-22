@@ -4,11 +4,11 @@ const CONFIG = {
   projects: [
     {
       id: 1,
-      title: 'Portafolio Personal',
-      description: 'Sitio web personal para mostrar mis proyectos y habilidades como desarrollador y diseñador web.',
-      image: 'https://via.placeholder.com/600x400/333333/666666?text=Proyecto+1',
-      tags: ['HTML', 'CSS', 'JavaScript'],
-      demo: '#',
+      title: 'StudyLoop',
+      description: 'StudyLoop es una aplicación web progresiva (PWA) diseñada para ayudar a los estudiantes a organizar su vida académica de manera eficiente. Con una interfaz moderna y funcionalidades intuitivas, StudyLoop se convierte en tu compañero ideal para el éxito académico.',
+      image: '../StudyLoop.png',
+      tags: ['Vue', 'CSS', 'Tailwind', 'JavaScript', 'Vite'],
+      demo: 'https://u-x-o-n-e.github.io/Focus-App/',
       code: '#'
     },
     {
