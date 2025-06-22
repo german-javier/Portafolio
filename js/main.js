@@ -6,7 +6,7 @@ const CONFIG = {
       id: 1,
       title: 'StudyLoop',
       description: 'StudyLoop es una aplicación web progresiva (PWA) diseñada para ayudar a los estudiantes a organizar su vida académica de manera eficiente. Con una interfaz moderna y funcionalidades intuitivas, StudyLoop se convierte en tu compañero ideal para el éxito académico.',
-      image: '../StudyLoop.png',
+      image: '../images/StudyLoop.png',
       tags: ['Vue', 'CSS', 'Tailwind', 'JavaScript', 'Vite'],
       demo: 'https://u-x-o-n-e.github.io/Focus-App/',
       code: '#'
