@@ -13,10 +13,10 @@ const CONFIG = {
     },
     {
       id: 2,
-      title: 'Aplicación de Tareas',
-      description: 'Aplicación web para gestionar tareas diarias con funcionalidad de arrastrar y soltar.',
-      image: 'https://via.placeholder.com/600x400/333333/666666?text=Proyecto+2',
-      tags: ['React', 'Firebase', 'Sass'],
+      title: 'Web UX/ONE',
+      description: 'Desarrollo de una pagina web profesional para la empresa de diseño y desarrolo web UX/ONE.',
+      image: 'images/uxone.png',
+      tags: ['Vite', 'CSS', 'Vue.js'],
       demo: '#',
       code: '#'
     },
