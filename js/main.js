@@ -17,7 +17,7 @@ const CONFIG = {
       description: 'Desarrollo de una pagina web profesional para la empresa de diseño y desarrolo web UX/ONE.',
       image: 'images/uxone.png',
       tags: ['Vite', 'CSS', 'Vue.js'],
-      demo: '#',
+      demo: 'https://u-x-o-n-e.github.io/uxone/',
       code: '#'
     },
     {
