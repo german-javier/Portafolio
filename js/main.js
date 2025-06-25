@@ -32,7 +32,7 @@ const CONFIG = {
     {
       id: 4,
       title: 'Red social de Hilos "Bloops"',
-      description: 'Bloops es una red social tipo hilos donde los usuarios comparten notas y publicaciones de imagenes y de textos, con varias opciones de personalizacion de perfil y sistema de seguimiento de usuario, incluye un buscador de usuarios y opciones de compartir una publicacion especifica bloops es una plataforma que solo permite el acceso a usuarios de moviles debido a que su diseño para dispositivos de PC no esta completa sin enbargo si sos usuario de movil podes disfrutar de la App tranquilamente.',
+      description: 'Bloops es una red social estilo hilos donde los usuarios comparten notas, imágenes y textos. Ofrece personalización de perfil, sistema de seguimiento, buscador de usuarios y opción para compartir publicaciones. Actualmente solo está disponible para móviles, ya que su versión web aún no está completa.',
       image: 'images/Bloops.png',
       tags: ['PHP', 'HTML', 'CSS', 'SQl', 'Javascript'],
       demo: 'https://bloops.kesug.com/',
