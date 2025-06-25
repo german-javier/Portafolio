@@ -31,11 +31,11 @@ const CONFIG = {
     },
     {
       id: 4,
-      title: 'Blog de Tecnología',
-      description: 'Blog moderno con sistema de autenticación y panel de administración.',
-      image: 'https://via.placeholder.com/600x400/333333/666666?text=Proyecto+4',
-      tags: ['Next.js', 'GraphQL', 'Tailwind CSS'],
-      demo: '#',
+      title: 'Red social de Hilos "Bloops"',
+      description: 'Bloops es una red social tipo hilos donde los usuarios comparten notas y publicaciones de imagenes y de textos, con varias opciones de personalizacion de perfil y sistema de seguimiento de usuario, incluye un buscador de usuarios y opciones de compartir una publicacion especifica bloops es una plataforma que solo permite el acceso a usuarios de moviles debido a que su diseño para dispositivos de PC no esta completa sin enbargo si sos usuario de movil podes disfrutar de la App tranquilamente.',
+      image: 'images/Bloops.png',
+      tags: ['PHP', 'HTML', 'CSS', 'SQl', 'Javascript'],
+      demo: 'https://bloops.kesug.com/',
       code: '#'
     },
     {
