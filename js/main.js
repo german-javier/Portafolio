@@ -17,7 +17,7 @@ const CONFIG = {
       description: 'Desarrollo de una pagina web profesional para la empresa de diseño y desarrolo web UX/ONE.',
       image: 'images/uxone.png',
       tags: ['Vite', 'CSS', 'Vue.js'],
-      demo: 'https://german-javier.github.io/trivia/',
+      demo: 'https://u-x-o-n-e.github.io/uxone/',
       code: '#'
     },
     {
@@ -26,7 +26,7 @@ const CONFIG = {
       description: 'Juego web de Trivia con preguntas, verdadero o falso y ranking.',
       image: 'images/Trivia.png',
       tags: ['HTML', 'CSS', 'Javacript'],
-      demo: 'https://u-x-o-n-e.github.io/uxone/',
+      demo: 'https://german-javier.github.io/trivia/',
       code: '#'
     },
     {
