@@ -42,7 +42,7 @@ const CONFIG = {
       id: 5,
       title: 'Aplicación del Clima',
       description: 'Aplicación que muestra el pronóstico del tiempo en tiempo real usando una API externa.',
-      image: 'https://via.placeholder.com/600x400/333333/666666?text=Proyecto+5',
+      image: 'images/Clima.png',
       tags: ['JavaScript', 'API', 'CSS Grid'],
       demo: '#',
       code: '#'
