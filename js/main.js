@@ -51,8 +51,8 @@ const CONFIG = {
       id: 6,
       title: 'Red Social',
       description: 'Plataforma social con funcionalidades como publicaciones, comentarios y mensajería.',
-      image: 'https://static.vecteezy.com/system/resources/previews/006/897/547/non_2x/flat-style-design-coming-soon-announcement-abstract-coming-soon-announcement-with-geometric-elements-vector.jpg',
-      tags: ['MERN Stack', 'Redux', 'Socket.io'],
+      image: 'images/Proximamente.jpeg',
+      tags: ['SQL', 'Javascript', 'CSS', 'PHP'],
       demo: '#',
       code: '#'
     }
