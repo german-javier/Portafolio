@@ -49,11 +49,11 @@ const CONFIG = {
     },
     {
       id: 6,
-      title: 'Red Social',
-      description: 'Plataforma social con funcionalidades como publicaciones, comentarios y mensajería.',
-      image: 'images/Proximamente.jpeg',
-      tags: ['SQL', 'Javascript', 'CSS', 'PHP'],
-      demo: '#',
+      title: 'Happy Store - Tienda Online',
+      description: 'Happy Store es un Software de Tienda Online con panel de administrador y catalogo de productos te permite gestionar tus datos del local, productos, usuarios, marcas, categorias y talles, mostrando los productos en el catalogo visible para invitados o usuarios registrados.',
+      image: 'images/HappyStore.png',
+      tags: ['SQL', 'Javascript', 'CSS', 'PHP', 'TailWind'],
+      demo: 'https://tokiourban.infinityfreeapp.com/index.php',
       code: '#'
     }
   ]
